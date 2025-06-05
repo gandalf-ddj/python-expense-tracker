@@ -1,3 +1,4 @@
+
 # Simple Expense Tracker (Python)
 
 This is a beginner-friendly Python terminal app that helps you track your expenses by saving item names and prices to a local file. It also totals your spending and displays it when requested.
@@ -48,3 +49,4 @@ This is a local terminal-based app. Future updates may include a GUI, CSV export
 ---
 
 *Created by Daniel Jarvis – Python Developer in Progress 🚀*
+
